@@ -1,0 +1,6 @@
+[submodule "lodu"]
+	path = lodu
+	url = https://github.com/Abdulmateenmaher/lodu
+[submodule "LuduBackend"]
+	path = LuduBackend
+	url = https://github.com/Abdulmateenmaher/LuduBackend
