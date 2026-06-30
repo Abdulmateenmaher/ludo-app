@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web_deploy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lodu/web_deploy.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

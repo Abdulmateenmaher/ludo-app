@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="images">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/images/app_icon.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/images/bg.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/images/starting.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

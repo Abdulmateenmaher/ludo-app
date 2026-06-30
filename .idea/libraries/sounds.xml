@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="sounds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/rolling.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/extra_turn.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/hit_piece.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/start_game.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/wining.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/six_four.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/block_border.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/reach_goal.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/moving_piece.mp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lodu/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/sounds/no_move_chance.mp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
